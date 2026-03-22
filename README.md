@@ -4,18 +4,6 @@ Personal portfolio website showcasing my projects, skills, and experience in dat
 
 ---
 
-## 🌐 Live Website
-
-Portfolio hosted with GitHub Pages.
-
-(Add your live link once deployed)
-
-Example:
-
-https://nikola283.github.io
-
----
-
 ## 📊 About the Portfolio
 
 This portfolio website presents my journey as a **self-taught Data Analyst** and demonstrates practical projects involving:
